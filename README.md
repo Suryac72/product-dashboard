@@ -29,4 +29,10 @@ A responsive and interactive Product Management Dashboard built with **React**, 
   - Quantity support & remove item feature
   - Cart state persisted via `localStorage`
 
-## 🛠️ Tech St
+## 🛠️ Tech Stack
+
+- ⚛️ **React** (with Hooks)
+- 🌐 **React Router v6**
+- 🎨 **Material UI**
+- 📦 **LocalStorage** for data persistence
+- 🔗 **DummyJSON API** (for initial product data)
